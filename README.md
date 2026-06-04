@@ -1,8 +1,8 @@
 # 🖐️ AI Gesture Control System
 
 ## 📌 Project Overview
-This project is a real-time AI-based Hand Gesture Control System using Python, OpenCV, and MediaPipe.  
-It allows users to control the computer mouse cursor using hand movements and perform click actions using finger gestures.
+This is a real-time AI-based Hand Gesture Control System using Python, OpenCV, and MediaPipe.  
+It allows users to control the computer mouse cursor using hand movements and perform click actions using finger gestures through a webcam.
 
 ---
 
